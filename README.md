@@ -10,8 +10,8 @@ A simple jQuery plugin to create a glowing arrow effect that follows the mouse c
 
 ```html
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://github.com/ankitnishad6313/glowing-mouse-arrow/blob/master/glowing-arrow.js"></script>
-<link rel="stylesheet" href="https://github.com/ankitnishad6313/glowing-mouse-arrow/blob/master/glowing-arrow.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/ankitnishad6313/glowing-mouse-arrow/master/glowing-arrow.css" />
+<script src="https://raw.githubusercontent.com/ankitnishad6313/glowing-mouse-arrow/master/glowing-arrow.js"></script>
 
 <script>
   $(document).ready(function () {
