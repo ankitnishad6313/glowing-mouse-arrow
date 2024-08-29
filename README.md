@@ -1,6 +1,6 @@
 # Glowing Arrow Library
 
-A simple jQuery plugin to create a glowing arrow effect that follows the mouse cursor.
+A simple jQuery plugin to create a glowing arrow effect that follows the mouse arrow.
 
 ## Usage
 
